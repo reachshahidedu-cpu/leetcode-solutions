@@ -1,0 +1,15 @@
+# Compiled executables
+two-sum
+reverse-string
+valid-anagram
+stock
+common-prefix
+binary-search
+move-zeroes
+valid-parentheses
+
+# macOS
+.DS_Store
+
+# Debug/build files
+*.dSYM/
